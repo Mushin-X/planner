@@ -32,7 +32,6 @@ time_manager/
 ├── planner.html                  # 应用入口页面，包含主要界面与脚本逻辑
 ├── planner.css                   # 页面样式
 ├── planner.js                    # 早期拆分脚本文件，当前入口以 planner.html 内联脚本为准
-├── planner-data-2026-04-09.json  # 示例/备份数据文件
 └── README.md
 ```
 
